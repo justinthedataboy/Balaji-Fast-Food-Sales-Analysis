@@ -1,5 +1,5 @@
 # Balaji-Fast-Food-Sales-Analysis
-This dataset was gotten of kaggle.com though not much informattion is given on the site the name of the dataset is "Balaji Fast Food Sales" which means the dataset is for a proposed fictional or non fictional fast food restaurant 'Balaji'.
+This dataset was gotten off kaggle.com though not much information is given on the site the name of the dataset is "Balaji Fast Food Sales" which means the dataset is for a proposed fictional or non fictional fast food restaurant 'Balaji'.
 
 # Data Description 
 Columns: This dataset includes columns such as order_id, date, item_name, item_type, item_price, quantity, transaction_amount, transaction_type, received_by, and time_of_sale.
