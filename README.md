@@ -19,10 +19,10 @@ Data Source: This data was collected from a local restaurant situated near my ho
 # Aim 
 This dataset was gotten of kaggle.com though not much informattion is given on the site the name of the dataset is "Balaji Fast Food Sales" which means the dataset is for a proposed fictional or non fictional fast food restaurant 'Balaji'. From here we will go on to carry out analyze in order to;
 
-* Understanding customer preferences for different items.
-* Evaluating the impact of payment methods on revenue.
-* Investigating the performance of staff members based on gender.
-* Exploring the popularity of items at different times of the day.
+* Understand customer preferences for different items.
+* Evaluate the impact of payment methods on revenue.
+* Investigate the performance of staff members based on gender.
+* Explore the popularity of items at different times of the day.
 
 Columns in the dataset ; 
 
